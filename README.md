@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my bachelor project, which concerns a combinatorial optimisation problem in the domain of construction logistics
-- 🌱 I’m currently learning website development and machine learning projects
+- 🔭 Aspiring AI engineer
 
 <!--
 **bodinestubbe/bodinestubbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
